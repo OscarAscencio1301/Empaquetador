@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=document.createElement("IMG");e.src=imagen,document.body.appendChild(e)})();
